@@ -162,3 +162,5 @@ available separately in the
 
 A span element in this position with a `continue-reading` id is created, so you can link directly to it if needed. For example:
 `<a href="{{ page.permalink }}#continue-reading">Continue Reading</a>`.
+
+This particular kind of summary is sometimes referred to as a "read more".
